@@ -1,0 +1,15 @@
+
+openai
+langchain
+langchain-core
+pinecone-client
+python-dotenv
+tiktoken
+streamlit
+cohere
+scikit-learn
+fastapi
+uvicorn[standard]
+requests
+docx2txt
+pypdf
