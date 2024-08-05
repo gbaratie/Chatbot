@@ -1,0 +1,17 @@
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer le répertoire node_modules
+node_modules/
+Chatbot/
+__pycache__
+
+
+# Ignorer les fichiers de build
+dist/
+build/
+
+# Ignorer les fichiers de configuration des environnements
+.env
+
+
